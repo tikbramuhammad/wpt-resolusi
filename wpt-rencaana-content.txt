@@ -3,7 +3,10 @@ RENCANA KONTEN WPT
 - Javasicrpt
  * ES6
  * Framework Javascript
+   ^ vue
 - Fundamental Data Dasae
 - PHP Frameworks
+  ^ Laravel
 - Interview
-- Vlohg
+- Vlogs
+- Phyton
