@@ -3,6 +3,7 @@ RENCANA KONTEN WPT
 - Javasicrpt
  * ES6
  * Framework Javascript
+- Fundamental Data Dasae
 - PHP Frameworks
 - Interview
 - Vlohg
