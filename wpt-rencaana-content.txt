@@ -4,6 +4,7 @@ RENCANA KONTEN WPT
  * ES6
  * Framework Javascript
    ^ vue
+   ^ React
 - Fundamental Data Dasae
 - PHP Frameworks
   ^ Laravel
