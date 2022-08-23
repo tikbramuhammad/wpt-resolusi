@@ -5,7 +5,7 @@ RENCANA KONTEN WPT
  * Framework Javascript
    ^ vue
    ^ React
-- Fundamental Data Dasae
+- Fundamental Data Dasar
 - PHP Frameworks
   ^ Laravel
 - Interview
